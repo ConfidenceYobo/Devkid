@@ -1,2 +1,1 @@
-# Devkid
-Little projects created by me
+# Devkid - Confi Yobo from Klynox Laboratories
